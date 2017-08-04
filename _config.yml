@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Marvin N. Wright"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Marvin N. Wright"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Marvin N. Wright"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Germany"
   email            :
   uri              :
   bitbucket        :
@@ -89,13 +89,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : mnwright
   gitlab           :
   google_plus      :
+  google_scholar   : 4_VM5MIAAAAJ
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : marvin-n-wright
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
