@@ -82,6 +82,14 @@
           </a>
         </li>
       {% endif %}
+      
+      {% if author.google_scholar %}
+        <li>
+          <a href="http://scholar.google.com/citations?user={{ author.google_scholar }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
+          </a>
+        </li>
+      {% endif %}
 
       {% if author.linkedin %}
         <li>
