@@ -1,2 +1,6 @@
+---
+permalink: /software/
+---
+
 * c
 * d

@@ -1,2 +1,6 @@
+---
+permalink: /publications/
+---
+
 * a
 * b
