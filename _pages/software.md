@@ -2,8 +2,6 @@
 permalink: /software/
 ---
 
-## Software
-
 ### R packages
 * ranger: A fast implementation of random forests (R/C++ package): [GitHub](https://github.com/imbs-hl/ranger), [CRAN](https://cran.r-project.org/package=ranger)
 * bnnSurvival: Bagged k-nearest neighbors survival prediction (R package): [GitHub](https://github.com/mnwright/bnnSurvival), [CRAN](https://cran.r-project.org/package=bnnSurvival)
