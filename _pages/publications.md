@@ -2,9 +2,7 @@
 permalink: /publications/
 ---
 
-## Publications
-
-### Journal articles
+## Journal articles
 * **Wright, M. N.** & Ziegler, A. (2017). ranger: A Fast Implementation of Random Forests for High Dimensional Data in C++ and R. *Journal of Statistical Software* 77:1–17. http://dx.doi.org/10.18637/jss.v077.i01.
 * Hengl, T., Mendes de Jesus, J., Heuvelink, G. B., Ruipérez Gonzalez, M., Kilibarda, M., Blagotić, A., Shangguan, W., **Wright, M. N.**, et al. (2017). SoilGrids250m: Global gridded soil information based on machine learning. *PLOS ONE* 12:e0169748. http://dx.doi.org/10.1371/journal.pone.0169748.
 * **Wright, M. N.**, Dankowski, T. & Ziegler, A. (2017). Unbiased split variable selection for random survival forests using maximally selected rank statistics. *Statistics in Medicine* 36:1272–1284. http://dx.doi.org/10.1002/sim.7212.
@@ -16,7 +14,7 @@ permalink: /publications/
 * **Wright, M. N.** & Ziegler, A. (2015). Multiple censored data in dentistry: A new statistical model for analyzing lesion size in randomized controlled trials. *Biometrical Journal* 57:384–394. http://dx.doi.org/10.1002/bimj.201400118.
 * Paulick, C., **Wright, M. N.**, Verleger, R. & Keller, K. (2014). Decomposition of 3-way arrays: A comparison of different PARAFAC algorithms. *Chemometrics and Intelligent Laboratory Systems* 137:97–109. http://dx.doi.org/10.1016/j.chemolab.2014.06.009.
  
-### Talks and Posters
+## Talks and Posters
 * **Wright, M. N.** & Gola, D. (2017). Tutorial: An intuitive approach to machine learning: boosting, nearest neighbors, random forests and support vector machines. *European Mathematical Genetics Meeting 2017.* Tartu, Estonia.
 * **Wright, M. N.** (2017). Random forests: Fast implementations for high throughput omics data and survival endpoints (Invited talk). *Department of Medical Informatics, Biometry and Epidemiology, Ludwig-Maximilians-Universität München.* München, Germany.
 * Ziegler, A. & **Wright, M. N.** (2016). Tutorial: An intuitive approach to machine learning: boosting, nearest neighbors, random forests and support vector machines. *GMDS, DGEpi & IEA-EEF Annual Meeting.* München, Germany.
