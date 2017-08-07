@@ -1,7 +1,7 @@
 ---
 title: Software
 permalink: /software/
-layout: page
+layout: home
 ---
 
 ## R packages
