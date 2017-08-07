@@ -2,8 +2,6 @@
 permalink: /publications/
 ---
 
-# Publications
-
 #### Journal articles
 * **Wright, M. N.** & Ziegler, A. (2017). ranger: A Fast Implementation of Random Forests for High Dimensional Data in C++ and R. *Journal of Statistical Software* 77:1–17. http://dx.doi.org/10.18637/jss.v077.i01.
 * Hengl, T., Mendes de Jesus, J., Heuvelink, G. B., Ruipérez Gonzalez, M., Kilibarda, M., Blagotić, A., Shangguan, W., **Wright, M. N.**, et al. (2017). SoilGrids250m: Global gridded soil information based on machine learning. *PLOS ONE* 12:e0169748. http://dx.doi.org/10.1371/journal.pone.0169748.
