@@ -1,7 +1,7 @@
 ---
 title: Publications
 permalink: /publications/
-layout: single
+layout: splash
 ---
 
 ## Journal articles
