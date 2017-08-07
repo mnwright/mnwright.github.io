@@ -1,6 +1,7 @@
 ---
 title: Publications
 permalink: /publications/
+layout: page
 ---
 
 ## Journal articles
