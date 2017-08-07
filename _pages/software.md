@@ -1,4 +1,5 @@
 ---
+title: Software
 permalink: /software/
 ---
 
