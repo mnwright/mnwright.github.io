@@ -3,6 +3,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Text size test text abc
+
 ## Journal articles
 * **Wright, M. N.** & Ziegler, A. (2017). ranger: A Fast Implementation of Random Forests for High Dimensional Data in C++ and R. *Journal of Statistical Software* 77:1–17. http://dx.doi.org/10.18637/jss.v077.i01.
 * Hengl, T., Mendes de Jesus, J., Heuvelink, G. B., Ruipérez Gonzalez, M., Kilibarda, M., Blagotić, A., Shangguan, W., **Wright, M. N.**, et al. (2017). SoilGrids250m: Global gridded soil information based on machine learning. *PLOS ONE* 12:e0169748. http://dx.doi.org/10.1371/journal.pone.0169748.
@@ -32,4 +34,6 @@ data. *useR! 2016.* Stanford, CA, USA.
 * **Wright, M. N.** (2015). Tutorial: Implementation of random forests in the R package ranger. *Statistical Computing 2015.* Schloss Reisensburg, Günzburg, Germany.
 * **Wright, M. N.** & Ziegler, A. (2015). ranger: A fast implementation of random forests for high dimensional data. *61. Biometrisches Kolloquium.* Dortmund, Germany.
 * **Wright, M. N.** & Ziegler, A. (2014). A software package for genome-wide association studies with random survival forests (Poster). *IGES 2014.* Vienna, Austria.
+
+
  
