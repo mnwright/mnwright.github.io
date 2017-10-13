@@ -14,6 +14,9 @@ permalink: /publications/
 * {:.pub} Schirmer, J. H., **Wright, M. N.**, Vonthein, R., Herrmann, K., Nölle. B., Both, M., Henes, F., Arlt, A., Gross, W. L., Schinke, S., Reinhold-Keller, E., Moosig, F. & Holle, J. U. (2016). Clinical presentation and long-term outcome of 144 patients with microscopic polyangiitis in a monocentric German cohort. ***Rheumatology (Oxford)*** 55:71–79. <http://dx.doi.org/10.1093/rheumatology/kev286>. <http://dx.doi.org/10.1186/s12859-016-0995-8>. <a href="https://academic.oup.com/rheumatology/article-pdf/55/1/71/18096538/kev286.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a> 
 * {:.pub} **Wright, M. N.** & Ziegler, A. (2015). Multiple censored data in dentistry: A new statistical model for analyzing lesion size in randomized controlled trials. ***Biometrical Journal*** 57:384–394. <http://dx.doi.org/10.1002/bimj.201400118>.
 * {:.pub} Paulick, C., **Wright, M. N.**, Verleger, R. & Keller, K. (2014). Decomposition of 3-way arrays: A comparison of different PARAFAC algorithms. ***Chemometrics and Intelligent Laboratory Systems*** 137:97–109. <http://dx.doi.org/10.1016/j.chemolab.2014.06.009>.
+
+## Book chapters
+* {:.pub} **Wright, M. N.**, Gola D., Ziegler A. (2017) Preprocessing and Quality Control for Whole-Genome Sequences from the Illumina HiSeq X Platform. In: Elston R. C. (Ed.) Statistical Human Genetics (2nd edn.). ***Methods in Molecular Biology*** 1666:629-647. Humana Press, New York. <https://doi.org/10.1007/978-1-4939-7274-6_30>.
  
 ## Talks and Posters
 * {:.pub} **Wright, M. N.** & Gola, D. (2017). Tutorial: An intuitive approach to machine learning: boosting, nearest neighbors, random forests and support vector machines. ***European Mathematical Genetics Meeting 2017***. Tartu, Estonia.
