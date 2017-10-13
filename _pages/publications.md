@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 
 ## Journal articles
-* {:.pub} **Wright, M. N.** & Ziegler, A. (2017). ranger: A Fast Implementation of Random Forests for High Dimensional Data in C++ and R. ***Journal of Statistical Software*** 77:1–17. <http://dx.doi.org/10.18637/jss.v077.i01>. <a href="https://www.jstatsoft.org/index.php/jss/article/view/v077i01/v77i01.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} **Wright, M. N.** & Ziegler, A. (2017). ranger: A fast implementation of random forests for high dimensional data in C++ and R. ***Journal of Statistical Software*** 77:1–17. <http://dx.doi.org/10.18637/jss.v077.i01>. <a href="https://www.jstatsoft.org/index.php/jss/article/view/v077i01/v77i01.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Hengl, T., Mendes de Jesus, J., Heuvelink, G. B., Ruipérez Gonzalez, M., Kilibarda, M., Blagotić, A., Shangguan, W., **Wright, M. N.**, et al. (2017). SoilGrids250m: Global gridded soil information based on machine learning. ***PLOS ONE*** 12:e0169748. <http://dx.doi.org/10.1371/journal.pone.0169748>. <a href="http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169748&type=printable"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} **Wright, M. N.**, Dankowski, T. & Ziegler, A. (2017). Unbiased split variable selection for random survival forests using maximally selected rank statistics. ***Statistics in Medicine*** 36:1272–1284. <http://dx.doi.org/10.1002/sim.7212>.
 * {:.pub} Hirose, M., Schilf, P., Gupta, Y., **Wright, M. N.**, Jöhren, O., Wagner, A. E., Sina, C., Ziegler, A., Ristow, M. & Ibrahim, S. M. (2016). Lifespan effects of mitochondrial mutations. ***Nature*** 540:E13–E14. <http://dx.doi.org/10.1038/nature20778>.
@@ -16,9 +16,11 @@ permalink: /publications/
 * {:.pub} Paulick, C., **Wright, M. N.**, Verleger, R. & Keller, K. (2014). Decomposition of 3-way arrays: A comparison of different PARAFAC algorithms. ***Chemometrics and Intelligent Laboratory Systems*** 137:97–109. <http://dx.doi.org/10.1016/j.chemolab.2014.06.009>.
 
 ## Book chapters
-* {:.pub} **Wright, M. N.**, Gola D., Ziegler A. (2017) Preprocessing and Quality Control for Whole-Genome Sequences from the Illumina HiSeq X Platform. In: Elston R. C. (Ed.) Statistical Human Genetics (2nd edn.). ***Methods in Molecular Biology*** 1666:629-647. Humana Press, New York. <https://doi.org/10.1007/978-1-4939-7274-6_30>.
+* {:.pub} **Wright, M. N.**<sup>\*</sup>, Gola D.<sup>\*</sup>, Ziegler A. (2017) Preprocessing and Quality Control for Whole-Genome Sequences from the Illumina HiSeq X Platform. In: Elston R. C. (Ed.) Statistical Human Genetics (2nd edn.). ***Methods in Molecular Biology*** 1666:629-647. Humana Press, New York. <https://doi.org/10.1007/978-1-4939-7274-6_30>.
+<sup>\*</sup>Equal contribution
  
 ## Talks and Posters
+* {:.pub} **Wright, M. N.** & Nembrini, S. (2017). The revival of the Gini importance? ***Joint Conference on Biometrics \& Biopharmaceutical Statistics***. Vienna, Austria.
 * {:.pub} **Wright, M. N.** & Gola, D. (2017). Tutorial: An intuitive approach to machine learning: boosting, nearest neighbors, random forests and support vector machines. ***European Mathematical Genetics Meeting 2017***. Tartu, Estonia.
 * {:.pub} **Wright, M. N.** (2017). Random forests: Fast implementations for high throughput omics data and survival endpoints (Invited talk). ***Department of Medical Informatics, Biometry and Epidemiology, Ludwig-Maximilians-Universität München***. München, Germany.
 * {:.pub} Ziegler, A. & **Wright, M. N.** (2016). Tutorial: An intuitive approach to machine learning: boosting, nearest neighbors, random forests and support vector machines. ***GMDS, DGEpi & IEA-EEF Annual Meeting***. München, Germany.
