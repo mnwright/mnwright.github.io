@@ -16,7 +16,7 @@ permalink: /publications/
 * {:.pub} Paulick, C., **Wright, M. N.**, Verleger, R. & Keller, K. (2014). Decomposition of 3-way arrays: A comparison of different PARAFAC algorithms. ***Chemometrics and Intelligent Laboratory Systems*** 137:97–109. <http://dx.doi.org/10.1016/j.chemolab.2014.06.009>.
 
 ## Book chapters
-* {:.pub} **Wright, M. N.**<sup>\*</sup>, Gola D.<sup>\*</sup>, Ziegler A. (2017) Preprocessing and Quality Control for Whole-Genome Sequences from the Illumina HiSeq X Platform. In: Elston R. C. (Ed.) Statistical Human Genetics (2nd edn.). ***Methods in Molecular Biology*** 1666:629-647. Humana Press, New York. <https://doi.org/10.1007/978-1-4939-7274-6_30>.
+* {:.pub} **Wright, M. N.**<sup>\*</sup>, Gola D.<sup>\*</sup>, Ziegler A. (2017) Preprocessing and Quality Control for Whole-Genome Sequences from the Illumina HiSeq X Platform. In: Elston R. C. (Ed.) Statistical Human Genetics (2nd edn.). ***Methods in Molecular Biology*** 1666:629-647. Humana Press, New York. <https://doi.org/10.1007/978-1-4939-7274-6_30>. <a href="https://imbs-hl.github.io/illumina_seq.html"><i class="fa fa-file-text-o"></i>HTML</a> 
 <sup>\*</sup>Equal contribution
  
 ## Talks and Posters
