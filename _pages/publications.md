@@ -4,6 +4,7 @@ permalink: /publications/
 ---
 
 ## Journal articles
+* {:.pub} Hirose, M., Schilf, P., Gupta, Y., Zarse, K., Künstner, A., Fähnrich, A., Busch, H., Yin, J., **Wright, M. N.**, Ziegler, A., Vallier, M., Belheouane, M., Baines, J. F., Tautz, D., Johann, K., Oelkrug, R., Mittag, J., Lehnert, H., Othman, A., Jöhren, O., Schwaninger, M., Prehn, C., Adamski, J., Shima, K., Rupp, J., Häsler, R., Fuellen, G., Köhling, R., Ristow, M., Ibrahim, S. M. (2018). Low-level mitochondrial heteroplasmy modulates DNA replication, glucose metabolism and lifespan in mice. ***Scientific Reports*** 8:5872. <http://dx.doi.org/10.1038/s41598-018-24290-6>. <a href="https://www.nature.com/articles/s41598-018-24290-6.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} **Wright, M. N.** & Ziegler, A. (2017). ranger: A fast implementation of random forests for high dimensional data in C++ and R. ***Journal of Statistical Software*** 77:1–17. <http://dx.doi.org/10.18637/jss.v077.i01>. <a href="https://www.jstatsoft.org/index.php/jss/article/view/v077i01/v77i01.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Hengl, T., Mendes de Jesus, J., Heuvelink, G. B., Ruipérez Gonzalez, M., Kilibarda, M., Blagotić, A., Shangguan, W., **Wright, M. N.**, et al. (2017). SoilGrids250m: Global gridded soil information based on machine learning. ***PLOS ONE*** 12:e0169748. <http://dx.doi.org/10.1371/journal.pone.0169748>. <a href="http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169748&type=printable"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} **Wright, M. N.**, Dankowski, T. & Ziegler, A. (2017). Unbiased split variable selection for random survival forests using maximally selected rank statistics. ***Statistics in Medicine*** 36:1272–1284. <http://dx.doi.org/10.1002/sim.7212>.
@@ -20,6 +21,7 @@ permalink: /publications/
 <sup>\*</sup>Equal contribution
  
 ## Talks and Posters
+* {:.pub} **Wright, M. N.** & König, I. R. (2018). Splitting on categorical predictors in random forests (Poster). ***64. Biometrisches Kolloquium***. Frankfurt, Germany.
 * {:.pub} **Wright, M. N.** & Nembrini, S. (2017). The revival of the Gini importance? ***Joint Conference on Biometrics \& Biopharmaceutical Statistics***. Vienna, Austria.
 * {:.pub} **Wright, M. N.** & Gola, D. (2017). Tutorial: An intuitive approach to machine learning: boosting, nearest neighbors, random forests and support vector machines. ***European Mathematical Genetics Meeting 2017***. Tartu, Estonia.
 * {:.pub} **Wright, M. N.** (2017). Random forests: Fast implementations for high throughput omics data and survival endpoints (Invited talk). ***Department of Medical Informatics, Biometry and Epidemiology, Ludwig-Maximilians-Universität München***. München, Germany.
