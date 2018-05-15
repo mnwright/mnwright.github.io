@@ -3,6 +3,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Just <a href="mailto:web@wrig.de">ask me</a> for the others. 
+
 ## Preprints
 * {:.pub} Probst, P., **Wright, M. N.** & Boulesteix, A-L. (2018). Hyperparameters and tuning strategies for random forest ***arXiv***. <https://arxiv.org/abs/1804.03515>. <a href="https://arxiv.org/pdf/1804.03515"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Hengl, T., Nussbaum, M., **Wright, M. N.** & Heuvelink, G. B. M. (2018). Random Forest as a Generic Framework for Predictive Modeling of Spatial and spatiotemporal Variables ***PeerJ PrePrints***. <http://dx.doi.org/10.7287/peerj.preprints.26693v1>. <a href="https://peerj.com/preprints/26693.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
