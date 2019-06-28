@@ -38,6 +38,8 @@ Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Ju
 * {:.pub} **Wright, M. N.**, Mortensen, L. H., Kusumastuti, S., Westendorp, R. G. J. & Gerds, T. A. (2019). Recurrent neural networks for time to event predictions with competing risks. ***DAGStat 2019***. München, Germany.
 * {:.pub} **Wright, M. N.** & König, I. R. (2018). Splitting on categorical predictors in random forests (Poster). ***64. Biometrisches Kolloquium***. Frankfurt, Germany.
 * {:.pub} **Wright, M. N.** & Nembrini, S. (2017). The revival of the Gini importance? ***Joint Conference on Biometrics & Biopharmaceutical Statistics***. Vienna, Austria.
+* {:.pub} **Wright, M. N.** & Gola, D. (2018). An introduction to machine learning in epidemiology. ***DGEpi 2018***. Bremen, Germany.
+* {:.pub} **Wright, M. N.**  (2017). Hands-on introduction to Rcpp. ***10th quarterly R Meetup***. Hamburg, Germany.
 * {:.pub} **Wright, M. N.** & Gola, D. (2017). Tutorial: An intuitive approach to machine learning: boosting, nearest neighbors, random forests and support vector machines. ***European Mathematical Genetics Meeting 2017***. Tartu, Estonia.
 * {:.pub} **Wright, M. N.** (2017). Random forests: Fast implementations for high throughput omics data and survival endpoints (Invited talk). ***Department of Medical Informatics, Biometry and Epidemiology, Ludwig-Maximilians-Universität München***. München, Germany.
 * {:.pub} Ziegler, A. & **Wright, M. N.** (2016). Tutorial: An intuitive approach to machine learning: boosting, nearest neighbors, random forests and support vector machines. ***GMDS, DGEpi & IEA-EEF Annual Meeting***. München, Germany.
