@@ -6,7 +6,7 @@ permalink: /publications/
 Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Just <a href="mailto:web@wrig.de">ask me</a> for the others. 
 
 ## Preprints
-* {:.pub} Watson, D. S. & **Wright, M. N.** (2019). Testing conditional predictive independence in supervised learning algorithms. ***arXiv***. <https://arxiv.org/abs/1901.09917>. <a href="https://arxiv.org/pdf/1901.09917"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Watson, D. S. & **Wright, M. N.** (2019). Testing conditional independence in supervised learning algorithms. ***arXiv***. <https://arxiv.org/abs/1901.09917>. <a href="https://arxiv.org/pdf/1901.09917"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Weinhold, L., Schmid, M. & **Wright, M. N.** & Berger, M. (2019). A random forest approach for modeling bounded outcomes ***arXiv***. <https://arxiv.org/abs/1901.06211>. <a href="https://arxiv.org/pdf/1901.06211"><i class="fa fa-file-pdf-o"></i>PDF</a>
 
 ## Journal articles
