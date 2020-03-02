@@ -7,6 +7,9 @@ Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Ju
 
 ## Preprints
 * {:.pub} Watson, D. S. & **Wright, M. N.** (2019). Testing conditional independence in supervised learning algorithms. ***arXiv***. <https://arxiv.org/abs/1901.09917>. <a href="https://arxiv.org/pdf/1901.09917"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Hüls, A., **Wright, M. N.**, Bogl, L. H., Kaprio, J., Lissner, L., Molnár, D., Moreno, L., De Henauw, S., Siani, A., Veidebaum, T., Ahrens, W., Pigeot, I. & Foraita, R. on behalf of the IDEFICS/I.Family consortia (2020). A healthy childhood environment helps to combat inherited susceptibility to obesity. ***bioRxiv***. <http://dx.doi.org/10.1101/2020.01.13.905125>. <a href="https://www.biorxiv.org/content/10.1101/2020.01.13.905125v1.full.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
+
+
 
 ## Journal articles
 * {:.pub} Weinhold, L., Schmid, M., Mitchell R., Maloney, K. O., **Wright, M. N.** & Berger, M. (2019). A random forest approach for modeling bounded outcome variables. ***Journal of Computational and Graphical Statistics***. <http://dx.doi.org/10.1080/10618600.2019.1705310>. <a href="https://arxiv.org/pdf/1901.06211"><i class="fa fa-file-pdf-o"></i>Free Preprint</a>
