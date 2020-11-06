@@ -4,7 +4,7 @@ permalink: /talks/
 ---
  
 ## Invited talks
-* {:.pub} **Wright, M. N.** (2020).Machine learning for survival data. ***Fraunhofer Institute for Digital Medicine MEVIS***. Bremen, Germany.
+* {:.pub} **Wright, M. N.** (2020). Machine learning for survival data. ***Fraunhofer Institute for Digital Medicine MEVIS***. Bremen, Germany.
 * {:.pub} **Wright, M. N.** (2020). Interpretable machine learning for time to event data. ***Institute of Biometry and Clinical Epidemiology, Charité University Hospital***. Berlin, Germany.
 * {:.pub} **Wright, M. N.** (2019). Predicting the personalized need of care in an ageing society. ***Section of Epidemiology, Department of Public Health, University of Copenhagen***. Copenhagen, Denmark.
 * {:.pub} **Wright, M. N.** (2019). Benchmarking machine learning algorithms. ***Fraunhofer Institute for Digital Medicine MEVIS***. Bremen, Germany.
