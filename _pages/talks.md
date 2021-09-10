@@ -4,6 +4,8 @@ permalink: /talks/
 ---
  
 ## Invited talks
+* {:.pub} **Wright, M. N.** (2021). Interpretable machine learning in genetics. ***XXXIInd Conference of the Austro-Swiss Region (ROeS) of the International Biometric Society***. Salzburg, Austria (hybrid conference).
+* {:.pub} **Wright, M. N.** (2021). Machine learning for survival data. ***Institute for Medical Biostatistics, Epidemiology and Informatics, University Medical Center, Johannes Gutenberg University Mainz***. Mainz, Germany (online presentation).
 * {:.pub} **Wright, M. N.** (2020). Machine learning for survival data. ***Fraunhofer Institute for Digital Medicine MEVIS***. Bremen, Germany.
 * {:.pub} **Wright, M. N.** (2020). Interpretable machine learning for time to event data. ***Institute of Biometry and Clinical Epidemiology, Charité University Hospital***. Berlin, Germany.
 * {:.pub} **Wright, M. N.** (2019). Predicting the personalized need of care in an ageing society. ***Section of Epidemiology, Department of Public Health, University of Copenhagen***. Copenhagen, Denmark.
@@ -13,7 +15,7 @@ permalink: /talks/
 * {:.pub} **Wright, M. N.** (2015). Random forests: Fast implementations for high dimensional data and survival analysis. ***Section of Biostatistics, University of Copenhagen***. Copenhagen, Denmark.
 
 ## Conference contributions
-* {:.pub} **Wright, M. N.**, Watson, D. S. (2021). Genome-wide conditional independence testing with machine learning. ***67. Biometrisches Kolloquium***. Münster, Germany (virtual conference).
+* {:.pub} **Wright, M. N.** & Watson, D. S. (2021). Genome-wide conditional independence testing with machine learning. ***67. Biometrisches Kolloquium***. Münster, Germany (virtual conference).
 * {:.pub} **Wright, M. N.**, Mortensen, L. H., Kusumastuti, S., Westendorp, R. G. J. & Gerds, T. A. (2019). Recurrent neural networks for time to event predictions with competing risks. ***DAGStat 2019***. München, Germany.
 * {:.pub} **Wright, M. N.** & König, I. R. (2018). Splitting on categorical predictors in random forests (Poster). ***64. Biometrisches Kolloquium***. Frankfurt, Germany.
 * {:.pub} **Wright, M. N.** & Nembrini, S. (2017). The revival of the Gini importance? ***Joint Conference on Biometrics & Biopharmaceutical Statistics***. Vienna, Austria.
@@ -27,6 +29,7 @@ permalink: /talks/
 * {:.pub} **Wright, M. N.** & Ziegler, A. (2014). A software package for genome-wide association studies with random survival forests (Poster). ***IGES 2014***. Vienna, Austria.
 
 ## Tutorials
+* {:.pub} **Wright, M. N.** (2021). Model-agnostic interpretable machine learning. ***MOOD Science Webinars, OpenGeoHub Foundation***. Virtual Webinar.
 * {:.pub} **Wright, M. N.** & Gola, D. (2018). An introduction to machine learning in epidemiology. ***DGEpi 2018***. Bremen, Germany.
 * {:.pub} **Wright, M. N.**  (2017). Hands-on introduction to Rcpp. ***10th quarterly R Meetup***. Hamburg, Germany.
 * {:.pub} **Wright, M. N.** & Gola, D. (2017). An intuitive approach to machine learning: boosting, nearest neighbors, random forests and support vector machines. ***European Mathematical Genetics Meeting 2017***. Tartu, Estonia.
