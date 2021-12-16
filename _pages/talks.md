@@ -5,7 +5,7 @@ permalink: /talks/
  
 ## Invited talks
 * {:.pub} **Wright, M. N.** (2021). Genome-wide interpretable machine learning. ***The Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at Mount Sinai***. New York City, NY, USA (online presentation).
-* {:.pub} **Wright, M. N.** (2021). Random forests: myths and facts. ***Interdisciplinary colloquium "Statistical methods in empirical research"***. Berlin, Germany (online presentation).
+* {:.pub} **Wright, M. N.** (2021). Random forests: myths and facts. ***Interdisciplinary Colloquium "Statistical Methods in Empirical Research"***. Berlin, Germany (online presentation).
 * {:.pub} **Wright, M. N.** (2021). Machine learning for time to event data. ***ARTEMIS workshop: Artificial intelligence musculoskeletal disorders study***. Kiel, Germany (online presentation).
 * {:.pub} **Wright, M. N.** (2021). Interpretable machine learning in genetics. ***XXXIInd Conference of the Austro-Swiss Region (ROeS) of the International Biometric Society***. Salzburg, Austria (hybrid conference).
 * {:.pub} **Wright, M. N.** (2021). Machine learning for survival data. ***Institute for Medical Biostatistics, Epidemiology and Informatics, University Medical Center, Johannes Gutenberg University Mainz***. Mainz, Germany (online presentation).
