@@ -7,7 +7,7 @@ Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Ju
 
 ## Preprints
 * {:.pub} Watson, D. S., Blesch, K., Kapar, J. & **Wright, M. N.** (2022). Smooth densities and generative modeling with unsupervised random forests. ***arXiv***. <https://arxiv.org/abs/2205.09435>. <a href="https://arxiv.org/pdf/2205.09435"><i class="fa fa-file-pdf-o"></i>PDF</a>
-* {:.pub} Dijkstra, L., Schink, T., Linder, R., Schwaninger, M., Pigeot, I., **Wright, M. N.**, & Foraita, R. (2022). A discovery and verification approach for pharmacovigilance using electronic health care data. ***medRxiv***. <https://doi.org/10.1101/2022.05.10.22274885>. <a href="https://doi.org/10.1101/2022.05.10.22274885"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Dijkstra, L., Schink, T., Linder, R., Schwaninger, M., Pigeot, I., **Wright, M. N.**, & Foraita, R. (2022). A discovery and verification approach for pharmacovigilance using electronic health care data. ***medRxiv***. <https://www.medrxiv.org/content/10.1101/2022.05.10.22274885v1>. <a href="https://www.medrxiv.org/content/10.1101/2022.05.10.22274885v1.full.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Molnar, C., Freiesleben, T., König, G., Casalicchio, G., **Wright, M. N.** & Bischl, B. (2021). Relating the partial dependence plot and permutation feature importance to the data generating process. ***arXiv***. <https://arxiv.org/abs/2109.01433>. <a href="https://arxiv.org/pdf/2109.01433"><i class="fa fa-file-pdf-o"></i>PDF</a>
 
 ## Journal articles
