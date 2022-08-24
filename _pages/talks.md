@@ -4,6 +4,9 @@ permalink: /talks/
 ---
  
 ## Invited talks
+* {:.pub} **Wright, M. N.** (2022). Random forests: myths and facts. ***Statistical Computing 2022***. Schloss Reisensburg, Günzburg, Germany.
+* {:.pub} **Wright, M. N.** (2022). Random forests on high-dimensional data: From classification and survival
+analysis to generative modelling. ***Department of Statistics, TU Dortmund University***. Dortmund, Germany.
 * {:.pub} **Wright, M. N.** (2021). Genome-wide interpretable machine learning. ***The Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at Mount Sinai***. New York City, NY, USA (online presentation).
 * {:.pub} **Wright, M. N.** (2021). Random forests: myths and facts. ***Interdisciplinary Colloquium "Statistical Methods in Empirical Research"***. Berlin, Germany (online presentation).
 * {:.pub} **Wright, M. N.** (2021). Machine learning for time to event data. ***ARTEMIS workshop: Artificial intelligence musculoskeletal disorders study***. Kiel, Germany (online presentation).
@@ -18,6 +21,7 @@ permalink: /talks/
 * {:.pub} **Wright, M. N.** (2015). Random forests: Fast implementations for high dimensional data and survival analysis. ***Section of Biostatistics, University of Copenhagen***. Copenhagen, Denmark.
 
 ## Conference contributions
+* {:.pub} **Wright, M. N.**, Blesch, K. & Watson, D. S. (2022). Testing conditional independence in supervised learning algorithms with the cpi package. ***useR! 2022***. Virtual Conference.
 * {:.pub} **Wright, M. N.** & Watson, D. S. (2021). Genome-wide conditional independence testing with machine learning. ***67. Biometrisches Kolloquium***. Münster, Germany (virtual conference).
 * {:.pub} **Wright, M. N.**, Mortensen, L. H., Kusumastuti, S., Westendorp, R. G. J. & Gerds, T. A. (2019). Recurrent neural networks for time to event predictions with competing risks. ***DAGStat 2019***. München, Germany.
 * {:.pub} **Wright, M. N.** & König, I. R. (2018). Splitting on categorical predictors in random forests (Poster). ***64. Biometrisches Kolloquium***. Frankfurt, Germany.
