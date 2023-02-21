@@ -14,3 +14,4 @@ permalink: /software/
 * glex: Global explanations for tree-based models (R package): [Github](https://github.com/PlantedML/glex)
 * randomPlantedForest: A directly interpretable tree ensemble (R package): [Github](https://github.com/PlantedML/randomPlantedForest)
 * cpi: Conditional Predictive Impact (R package): [Github](https://github.com/bips-hb/cpi), [CRAN](https://cran.r-project.org/package=cpi)
+* arf: Adversarial Random Forests (R package) [Github](https://github.com/bips-hb/arf), [CRAN](https://cran.r-project.org/package=arf)

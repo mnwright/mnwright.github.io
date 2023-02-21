@@ -8,7 +8,7 @@ Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Ju
 ## Preprints
 * {:.pub} Blesch, K., Watson, D. S. & **Wright, M. N.** (2022). Conditional feature importance for mixed data ***arXiv***. <https://arxiv.org/abs/2210.03047>. <a href="https://arxiv.org/pdf/2210.03047"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Hiabu, M., Meyer J. T. & **Wright, M. N.** (2022). Unifying local and global model explanations by functional decomposition of low dimensional structures. ***arXiv***. <https://arxiv.org/abs/2208.06151>. <a href="https://arxiv.org/pdf/2208.06151"><i class="fa fa-file-pdf-o"></i>PDF</a>
-* {:.pub} Watson, D. S., Blesch, K., Kapar, J. & **Wright, M. N.** (2022). Smooth densities and generative modeling with unsupervised random forests. ***arXiv***. <https://arxiv.org/abs/2205.09435>. <a href="https://arxiv.org/pdf/2205.09435"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Watson, D. S., Blesch, K., Kapar, J. & **Wright, M. N.** (2022). Adversarial random forests for density estimation and generative modeling. ***arXiv***. <https://arxiv.org/abs/2205.09435>. <a href="https://arxiv.org/pdf/2205.09435"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Dijkstra, L., Schink, T., Linder, R., Schwaninger, M., Pigeot, I., **Wright, M. N.**, & Foraita, R. (2022). A discovery and verification approach for pharmacovigilance using electronic health care data. ***medRxiv***. <https://www.medrxiv.org/content/10.1101/2022.05.10.22274885v1>. <a href="https://www.medrxiv.org/content/10.1101/2022.05.10.22274885v1.full.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Molnar, C., Freiesleben, T., König, G., Casalicchio, G., **Wright, M. N.** & Bischl, B. (2021). Relating the partial dependence plot and permutation feature importance to the data generating process. ***arXiv***. <https://arxiv.org/abs/2109.01433>. <a href="https://arxiv.org/pdf/2109.01433"><i class="fa fa-file-pdf-o"></i>PDF</a>
 
@@ -44,7 +44,7 @@ Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Ju
 * {:.pub} Paulick, C., **Wright, M. N.**, Verleger, R. & Keller, K. (2014). Decomposition of 3-way arrays: A comparison of different PARAFAC algorithms. ***Chemometrics and Intelligent Laboratory Systems*** 137:97–109. <https://doi.org/10.1016/j.chemolab.2014.06.009>.
 
 ## Conference and workshop papers
-* {:.pub} Baudeu, R., **Wright, M. N.** & Loecher, M. (2022). Are SHAP values biased towards high-entropy features? ***ECML PKDD Workshop on eXplainable Knowledge Discovery in Data Mining***. <https://kdd.isti.cnr.it/xkdd2022/>. <a href="https://kdd.isti.cnr.it/xkdd2022/papers/XKDD_2022_paper_1418.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Baudeu, R., **Wright, M. N.** & Loecher, M. (2022). Are SHAP values biased towards high-entropy features? ***ECML PKDD Workshop on eXplainable Knowledge Discovery in Data Mining***. <https://doi.org/10.1007/978-3-031-23618-1_28>. <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-23618-1.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Koenen, N., **Wright, M. N.**, Maass, P. & Behrmann, J. (2021). Generalization of the change of variables formula with applications to residual flows. ***ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models***. <https://openreview.net/forum?id=msCiI5dejr>. <a href="https://openreview.net/pdf?id=msCiI5dejr"><i class="fa fa-file-pdf-o"></i>PDF</a>
 
 ## Book chapters
