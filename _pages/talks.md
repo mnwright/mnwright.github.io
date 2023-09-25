@@ -4,6 +4,7 @@ permalink: /talks/
 ---
  
 ## Invited talks
+* {:.pub} **Wright, M. N.** (2023). Interpretable machine learning. ***Begegnungszone: Statistical Physics and Machine Learning***. Leipzig, Germany.
 * {:.pub} **Wright, M. N.** (2022). Interpretable machine learning. ***School of Statistics and Actuarial Science, University of the Witwatersrand***. Johannesburg, South Africa.
 * {:.pub} **Wright, M. N.** (2022). Random forests: myths and facts. ***Statistical Computing 2022***. Schloss Reisensburg, Günzburg, Germany.
 * {:.pub} **Wright, M. N.** (2022). Random forests on high-dimensional data: From classification and survival
