@@ -4,11 +4,11 @@ permalink: /talks/
 ---
  
 ## Invited talks
+* {:.pub} **Wright, M. N.** (2022). From Explainable AI to generative modeling with tree-based machine learning ***Statistics and Econometrics Seminar, HU Berlin***. Berlin, Germany.
 * {:.pub} **Wright, M. N.** (2023). Interpretable machine learning. ***Begegnungszone: Statistical Physics and Machine Learning***. Leipzig, Germany.
 * {:.pub} **Wright, M. N.** (2022). Interpretable machine learning. ***School of Statistics and Actuarial Science, University of the Witwatersrand***. Johannesburg, South Africa.
 * {:.pub} **Wright, M. N.** (2022). Random forests: myths and facts. ***Statistical Computing 2022***. Schloss Reisensburg, Günzburg, Germany.
-* {:.pub} **Wright, M. N.** (2022). Random forests on high-dimensional data: From classification and survival
-analysis to generative modelling. ***Department of Statistics, TU Dortmund University***. Dortmund, Germany.
+* {:.pub} **Wright, M. N.** (2022). Random forests on high-dimensional data: From classification and survival analysis to generative modelling. ***Department of Statistics, TU Dortmund University***. Dortmund, Germany.
 * {:.pub} **Wright, M. N.** (2021). Genome-wide interpretable machine learning. ***The Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at Mount Sinai***. New York City, NY, USA (online presentation).
 * {:.pub} **Wright, M. N.** (2021). Random forests: myths and facts. ***Interdisciplinary Colloquium "Statistical Methods in Empirical Research"***. Berlin, Germany (online presentation).
 * {:.pub} **Wright, M. N.** (2021). Machine learning for time to event data. ***ARTEMIS workshop: Artificial intelligence musculoskeletal disorders study***. Kiel, Germany (online presentation).
