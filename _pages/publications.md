@@ -6,6 +6,7 @@ permalink: /publications/
 Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Just <a href="mailto:web@wrig.de">ask me</a> for the others. 
 
 ## Preprints
+* {:.pub} Ewald, F. K., Bothmann, L., **Wright, M. N.**, Bischl, B., Casalicchio, G. & König, G. (2024). A guide to feature importance methods for scientific inference. ***arXiv*** (accepted at xAI 2024). <https://arxiv.org/abs/2404.12862>. <a href="https://arxiv.org/pdf/2404.12862"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Koenen, N. & **Wright, M. N.** (2024). Toward understanding the disagreement problem in neural network feature attribution. ***arXiv*** (accepted at xAI 2024). <https://arxiv.org/abs/2404.11330>. <a href="https://arxiv.org/pdf/2404.11330"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Dandl, S., Blesch, K., Freiesleben, T., König, G., Kapar, J., Bischl, B. & **Wright, M. N.** (2024). CountARFactuals -- Generating plausible model-agnostic counterfactual explanations with adversarial random forests. ***arXiv*** (accepted at xAI 2024). <https://arxiv.org/abs/2404.03506>. <a href="https://arxiv.org/pdf/2404.03506"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Langbein, S. H., Krzyziński, M., Spytek, M., Baniecki, H., Biecek, P. & **Wright, M. N.** (2024). Interpretable machine learning for survival analysis. ***arXiv***. <https://arxiv.org/abs/2403.10250>. <a href="https://arxiv.org/pdf/2403.10250"><i class="fa fa-file-pdf-o"></i>PDF</a>
