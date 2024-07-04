@@ -6,6 +6,8 @@ permalink: /publications/
 Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Just <a href="mailto:web@wrig.de">ask me</a> for the others. 
 
 ## Preprints
+* {:.pub} Herbinger, J., **Wright, M. N.**, Nagler, T., Bischl, B. & Casalicchio, G. (2024). Decomposing global feature effects based on feature interactions.
+ ***arXiv***. <https://arxiv.org/abs/2306.00541>. <a href="https://arxiv.org/pdf/2306.00541"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Burk, L., Zobolas, J., Bischl, B., Bender, A., **Wright, M. N.** & Sonabend, R. (2024). A large-scale neutral comparison study of survival models on low-dimensional data. ***arXiv***. <https://arxiv.org/abs/2406.04098>. <a href="https://arxiv.org/pdf/2406.04098"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Ewald, F. K., Bothmann, L., **Wright, M. N.**, Bischl, B., Casalicchio, G. & König, G. (2024). A guide to feature importance methods for scientific inference. ***arXiv*** (accepted at xAI 2024). <https://arxiv.org/abs/2404.12862>. <a href="https://arxiv.org/pdf/2404.12862"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Koenen, N. & **Wright, M. N.** (2024). Toward understanding the disagreement problem in neural network feature attribution. ***arXiv*** (accepted at xAI 2024). <https://arxiv.org/abs/2404.11330>. <a href="https://arxiv.org/pdf/2404.11330"><i class="fa fa-file-pdf-o"></i>PDF</a>
