@@ -4,6 +4,7 @@ permalink: /talks/
 ---
  
 ## Invited talks
+* {:.pub} **Wright, M. N.** (2024). Generative machine learning in biostatistics. ***Institute of Biostatistics and Clinical Research, University of Münster***. Münster, Germany.
 * {:.pub} **Wright, M. N.** (2024). Generative machine learning in biostatistics. ***70. Biometrisches Kolloquium***. Lübeck, Germany.
 * {:.pub} **Wright, M. N.** (2024). From explainable AI to generative modeling with tree-based machine learning. ***Institute of Medical Biometry and Statistics, University of Lübeck***. Lübeck, Germany.
 * {:.pub} **Wright, M. N.** (2023). From explainable AI to generative modeling with tree-based machine learning. ***Statistics and Econometrics Seminar, HU Berlin***. Berlin, Germany.
