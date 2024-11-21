@@ -26,6 +26,7 @@ permalink: /talks/
 * {:.pub} **Wright, M. N.** (2015). Random forests: Fast implementations for high dimensional data and survival analysis. ***Section of Biostatistics, University of Copenhagen***. Copenhagen, Denmark.
 
 ## Conference contributions
+* {:.pub} **Wright, M. N.**(2024). Adversarial random forests. ***26th International Conference on Computational Statistics**. Gießen, Germany.
 * {:.pub} **Wright, M. N.**, Blesch, K. & Watson, D. S. (2022). Testing conditional independence in supervised learning algorithms with the cpi package. ***useR! 2022***. Virtual Conference.
 * {:.pub} **Wright, M. N.** & Watson, D. S. (2021). Genome-wide conditional independence testing with machine learning. ***67. Biometrisches Kolloquium***. Münster, Germany (virtual conference).
 * {:.pub} **Wright, M. N.**, Mortensen, L. H., Kusumastuti, S., Westendorp, R. G. J. & Gerds, T. A. (2019). Recurrent neural networks for time to event predictions with competing risks. ***DAGStat 2019***. München, Germany.
