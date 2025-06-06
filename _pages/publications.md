@@ -6,16 +6,21 @@ permalink: /publications/
 Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Just <a href="mailto:web@wrig.de">ask me</a> for the others. 
 
 ## Preprints
+* {:.pub} Vu, B. D., Kapar, J., **Wright, M. N.** & Watson, D. S. (2025). Autoencoding random forests
+. ***arXiv***. <https://arxiv.org/abs/2505.21441>. <a href="https://arxiv.org/pdf/2505.21441"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Langbein, S. H., Koenen, N. & **Wright, M. N.** (2025). Gradient-based explanations for deep learning survival models.
- ***arXiv***. <https://arxiv.org/abs/2502.04970>. <a href="https://arxiv.org/pdf/2502.04970"><i class="fa fa-file-pdf-o"></i>PDF</a>
-* {:.pub} Blesch, K., Koenen, N., Kapar, J., Golchian, P., Burk, L., Loecher, M. & **Wright, M. N.** (2025). Conditional feature importance with generative modeling using adversarial random forests.
- ***arXiv*** (accepted at AAAI 2025). <https://arxiv.org/abs/2501.11178>. <a href="https://arxiv.org/pdf/2501.11178"><i class="fa fa-file-pdf-o"></i>PDF</a>
+ ***arXiv*** (accepted at ICML 2025). <https://arxiv.org/abs/2502.04970>. <a href="https://arxiv.org/pdf/2502.04970"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Liu, J., Steensgaard, T., **Wright, M. N.**, Pfister, N., & Hiabu, M. (2024). Fast estimation of partial dependence functions using trees.
- ***arXiv***. <https://arxiv.org/abs/2410.13448>. <a href="https://arxiv.org/pdf/2410.13448"><i class="fa fa-file-pdf-o"></i>PDF</a>
+ ***arXiv*** (accepted at ICML 2025). <https://arxiv.org/abs/2410.13448>. <a href="https://arxiv.org/pdf/2410.13448"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Brauße, E., Koenen, N., **Wright, M. N.**, & Schultz, T. (2025). Explaining multimodal features for screening of cognitive impairment using Shapley values. ***Preprint*** (accepted at EMBC 2025). <a href="https://csl.uni-bremen.de/cms/images/documents/publications/Brau%C3%9Fe_Explaining_2025.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a> 
 * {:.pub} Burk, L., Zobolas, J., Bischl, B., Bender, A., **Wright, M. N.** & Sonabend, R. (2024). A large-scale neutral comparison study of survival models on low-dimensional data. ***arXiv***. <https://arxiv.org/abs/2406.04098>. <a href="https://arxiv.org/pdf/2406.04098"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Langbein, S. H., Krzyziński, M., Spytek, M., Baniecki, H., Biecek, P. & **Wright, M. N.** (2024). Interpretable machine learning for survival analysis. ***arXiv***. <https://arxiv.org/abs/2403.10250>. <a href="https://arxiv.org/pdf/2403.10250"><i class="fa fa-file-pdf-o"></i>PDF</a>
 
 ## Journal Articles, Conference and Workshop Papers
+* {:.pub} Blesch, K., Koenen, N., Kapar, J., Golchian, P., Burk, L., Loecher, M. & **Wright, M. N.** (2025). Conditional feature importance with generative modeling using adversarial random forests.
+ ***Proceedings of the AAAI Conference on Artificial Intelligence*** 39:15596-15604.  <https://doi.org/10.1609/aaai.v39i15.33712>. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33712"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Seral‐Cortes, M., ..., **Wright, M. N.**, et al. (2025). Mediterranean diet and obesity polygenic risk interaction on adiposity in European children: The IDEFICS/I. Family Study. ***Pediatric Obesity*** e70023. <https://doi.org/10.1111/ijpo.70023>. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ijpo.70023"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Coyle-Asbil, H. J., Brandes, M., Brandes, B., Buck, C., **Wright, M. N.** & Vallis, L. A. (2025). Evaluating machine learning approaches to predict the energy expenditure of cross-national preschool children: a study of preprocessing and feature effects. ***European Journal of Applied Physiology***. <https://doi.org/10.1007/s00421-025-05800-7>. <a href="https://link.springer.com/content/pdf/10.1007/s00421-025-05800-7.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
  * {:.pub} Burk, L., Bender, A. & **Wright, M. N.** (2025). High-dimensional variable selection with competing events using cooperative penalized regression. ***Biometrical Journal*** 67:e70036. <https://doi.org/10.1002/bimj.70036>. <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.70036?download=true"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Herbinger, J., **Wright, M. N.**, Nagler, T., Bischl, B. & Casalicchio, G. (2024). Decomposing global feature effects based on feature interactions.
  ***Journal of Machine Learning Research*** 25(381):1-65. <https://jmlr.org/papers/v25/23-0699.html>. <a href="https://jmlr.org/papers/volume25/23-0699/23-0699.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
