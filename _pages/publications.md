@@ -8,7 +8,6 @@ Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Ju
 ## Preprints
 * {:.pub} Kapar, J., Günther, K., Vallis, L. A., Berger, K., Binder, N., Brenner, H., ... & **Wright, M. N.** (2025). Can synthetic data reproduce real-world findings in epidemiology? A replication study using tree-based generative AI. ***arXiv***. <https://arxiv.org/abs/2508.14936>. <a href="https://arxiv.org/pdf/2508.14936"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Golchian P., Kapar, J., Watson, D. S. & **Wright, M. N.** (2025). Missing value imputation with adversarial random forests -- MissARF. ***arXiv***. <https://arxiv.org/abs/2507.15681>. <a href="https://arxiv.org/pdf/2507.15681"><i class="fa fa-file-pdf-o"></i>PDF</a>
-
 * {:.pub} Vu, B. D., Kapar, J., **Wright, M. N.** & Watson, D. S. (2025). Autoencoding random forests
 . ***arXiv***. <https://arxiv.org/abs/2505.21441>. <a href="https://arxiv.org/pdf/2505.21441"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Langbein, S. H., Koenen, N. & **Wright, M. N.** (2025). Gradient-based explanations for deep learning survival models.

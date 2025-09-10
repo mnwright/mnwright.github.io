@@ -4,6 +4,10 @@ permalink: /talks/
 ---
  
 ## Invited talks
+* {:.pub} **Wright, M. N.** (2025). Tree-based generative modeling and synthetic data. ***Institute for Medical Informatics, Statistics and Epidemiology, Leipzig University***. Leipzig, Germany.
+* {:.pub} **Wright, M. N.** (2025). Interpretable Machine Learning. ***Institute of Biostatistics and Clinical Research, University of Münster***. Münster, Germany.
+* {:.pub} **Wright, M. N.** (2025). From explainable AI to generative modeling with tree-based machine learning. ***Econometric Institute, Erasmus University Rotterdam***. Rotterdam, Netherlands.
+* {:.pub} **Wright, M. N.** (2025). Tree-based generative modeling with applications in explainable AI. ***Department of Statistics, Ludwig-Maximilians-Universität München***. München, Germany.
 * {:.pub} **Wright, M. N.** (2025). Tree-based generative modeling with applications in explainable AI. ***Norwegian Centre for Knowledge-driven Machine Learning***. Oslo, Norway.
 * {:.pub} **Wright, M. N.** (2024). Generative machine learning in biostatistics. ***Institute of Biostatistics and Clinical Research, University of Münster***. Münster, Germany.
 * {:.pub} **Wright, M. N.** (2024). Generative machine learning in biostatistics. ***70. Biometrisches Kolloquium***. Lübeck, Germany.
@@ -27,7 +31,7 @@ permalink: /talks/
 * {:.pub} **Wright, M. N.** (2015). Random forests: Fast implementations for high dimensional data and survival analysis. ***Section of Biostatistics, University of Copenhagen***. Copenhagen, Denmark.
 
 ## Conference contributions
-* {:.pub} **Wright, M. N.**(2024). Adversarial random forests. ***26th International Conference on Computational Statistics***. Gießen, Germany.
+* {:.pub} **Wright, M. N.** (2024). Adversarial random forests. ***26th International Conference on Computational Statistics***. Gießen, Germany.
 * {:.pub} **Wright, M. N.**, Blesch, K. & Watson, D. S. (2022). Testing conditional independence in supervised learning algorithms with the cpi package. ***useR! 2022***. Virtual Conference.
 * {:.pub} **Wright, M. N.** & Watson, D. S. (2021). Genome-wide conditional independence testing with machine learning. ***67. Biometrisches Kolloquium***. Münster, Germany (virtual conference).
 * {:.pub} **Wright, M. N.**, Mortensen, L. H., Kusumastuti, S., Westendorp, R. G. J. & Gerds, T. A. (2019). Recurrent neural networks for time to event predictions with competing risks. ***DAGStat 2019***. München, Germany.
@@ -43,6 +47,7 @@ permalink: /talks/
 * {:.pub} **Wright, M. N.** & Ziegler, A. (2014). A software package for genome-wide association studies with random survival forests (Poster). ***IGES 2014***. Vienna, Austria.
 
 ## Tutorials
+* {:.pub} **Wright, M. N.** (2025). Introduction to Machine Learning with R and mlr3. ***DAGStat 2025***. Berlin, Germany.
 * {:.pub} **Wright, M. N.** (2021). Model-agnostic interpretable machine learning. ***MOOD Science Webinars, OpenGeoHub Foundation***. Virtual Webinar.
 * {:.pub} **Wright, M. N.** & Gola, D. (2018). An introduction to machine learning in epidemiology. ***DGEpi 2018***. Bremen, Germany.
 * {:.pub} **Wright, M. N.**  (2017). Hands-on introduction to Rcpp. ***10th quarterly R Meetup***. Hamburg, Germany.
