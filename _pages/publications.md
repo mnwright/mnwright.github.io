@@ -7,18 +7,19 @@ Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Ju
 
 ## Preprints
 * {:.pub} Kapar, J., Günther, K., Vallis, L. A., Berger, K., Binder, N., Brenner, H., ... & **Wright, M. N.** (2025). Can synthetic data reproduce real-world findings in epidemiology? A replication study using tree-based generative AI. ***arXiv***. <https://arxiv.org/abs/2508.14936>. <a href="https://arxiv.org/pdf/2508.14936"><i class="fa fa-file-pdf-o"></i>PDF</a>
-* {:.pub} Golchian P., Kapar, J., Watson, D. S. & **Wright, M. N.** (2025). Missing value imputation with adversarial random forests -- MissARF. ***arXiv***. <https://arxiv.org/abs/2507.15681>. <a href="https://arxiv.org/pdf/2507.15681"><i class="fa fa-file-pdf-o"></i>PDF</a>
-* {:.pub} Vu, B. D., Kapar, J., **Wright, M. N.** & Watson, D. S. (2025). Autoencoding random forests
-. ***arXiv***. <https://arxiv.org/abs/2505.21441>. <a href="https://arxiv.org/pdf/2505.21441"><i class="fa fa-file-pdf-o"></i>PDF</a>
-* {:.pub} Langbein, S. H., Koenen, N. & **Wright, M. N.** (2025). Gradient-based explanations for deep learning survival models.
- ***arXiv*** (accepted at ICML 2025). <https://arxiv.org/abs/2502.04970>. <a href="https://arxiv.org/pdf/2502.04970"><i class="fa fa-file-pdf-o"></i>PDF</a>
-* {:.pub} Liu, J., Steensgaard, T., **Wright, M. N.**, Pfister, N., & Hiabu, M. (2024). Fast estimation of partial dependence functions using trees.
- ***arXiv*** (accepted at ICML 2025). <https://arxiv.org/abs/2410.13448>. <a href="https://arxiv.org/pdf/2410.13448"><i class="fa fa-file-pdf-o"></i>PDF</a>
-* {:.pub} Brauße, E., Koenen, N., **Wright, M. N.**, & Schultz, T. (2025). Explaining multimodal features for screening of cognitive impairment using Shapley values. ***Preprint*** (accepted at EMBC 2025). <a href="https://csl.uni-bremen.de/cms/images/documents/publications/Brau%C3%9Fe_Explaining_2025.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a> 
+* {:.pub} Golchian P., Kapar, J., Watson, D. S. & **Wright, M. N.** (2025). Missing value imputation with adversarial random forests -- MissARF. ***arXiv*** (accepted in Statistics in Medicine). <https://arxiv.org/abs/2507.15681>. <a href="https://arxiv.org/pdf/2507.15681"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Vu, B. D., Kapar, J., **Wright, M. N.** & Watson, D. S. (2025). Autoencoding random forests. ***arXiv*** (accepted at NeurIPS 2025). <https://arxiv.org/abs/2505.21441>. <a href="https://arxiv.org/pdf/2505.21441"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Burk, L., Zobolas, J., Bischl, B., Bender, A., **Wright, M. N.** & Sonabend, R. (2024). A large-scale neutral comparison study of survival models on low-dimensional data. ***arXiv***. <https://arxiv.org/abs/2406.04098>. <a href="https://arxiv.org/pdf/2406.04098"><i class="fa fa-file-pdf-o"></i>PDF</a>
-* {:.pub} Langbein, S. H., Krzyziński, M., Spytek, M., Baniecki, H., Biecek, P. & **Wright, M. N.** (2024). Interpretable machine learning for survival analysis. ***arXiv***. <https://arxiv.org/abs/2403.10250>. <a href="https://arxiv.org/pdf/2403.10250"><i class="fa fa-file-pdf-o"></i>PDF</a>
 
 ## Journal Articles, Conference and Workshop Papers
+* {:.pub} Langbein, S. H., Koenen, N. & **Wright, M. N.** (2025). Gradient-based explanations for deep learning survival models.
+ ***Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)***. <https://proceedings.mlr.press/v267/langbein25a.html>. <a href="https://raw.githubusercontent.com/mlresearch/v267/main/assets/langbein25a/langbein25a.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Liu, J., Steensgaard, T., **Wright, M. N.**, Pfister, N., & Hiabu, M. (2024). Fast estimation of partial dependence functions using trees.
+ ***Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)***. <https://proceedings.mlr.press/v267/liu25bm.html>. <a href="https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25bm/liu25bm.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Langbein, S. H., Krzyziński, M., Spytek, M., Baniecki, H., Biecek, P. & **Wright, M. N.** (2025). Interpretable machine learning for survival analysis. ***Biometrical Journal*** 67:e70089. <https://doi.org/10.1002/bimj.70089>. <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.70089?download=true"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Golchian P. & **Wright, M. N.** (2025). Imputation uncertainty in interpretable machine learning methods. ***IJCAI 2025
+Workshop on Explainable Artificial Intelligence***. <https://arxiv.org/abs/2512.17689>. <a href="https://arxiv.org/pdf/2512.17689"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Brauße, E., Koenen, N., **Wright, M. N.**, & Schultz, T. (2025). Explaining multimodal features for screening of cognitive impairment using Shapley values. ***47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2025)***. <https://doi.org/10.1109/embc58623.2025.11251859> <a href="https://csl.uni-bremen.de/cms/images/documents/publications/Brau%C3%9Fe_Explaining_2025.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a> 
 * {:.pub} Diexer, S., ...,  **Wright, M. N.**, et al. (2025). Cross-sectional study of health impairment related to post COVID-19 condition among participants of a large population-based cohort in Germany.
  ***Scientific Reports*** 15:25830. <https://doi.org/10.1038/s41598-025-07894-7>. <a href="https://www.nature.com/articles/s41598-025-07894-7.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Blesch, K., Koenen, N., Kapar, J., Golchian, P., Burk, L., Loecher, M. & **Wright, M. N.** (2025). Conditional feature importance with generative modeling using adversarial random forests.
