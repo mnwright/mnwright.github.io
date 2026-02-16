@@ -13,6 +13,7 @@ Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Ju
 
 ## Journal Articles, Conference and Workshop Papers
 * {:.pub} Golchian P., Kapar, J., Watson, D. S. & **Wright, M. N.** (2026). Missing value imputation with adversarial random forests -- MissARF. ***Statistics in Medicine*** 45:e70379. <https://doi.org/10.1002/sim.70379>. <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sim.70379?download=true"><i class="fa fa-file-pdf-o"></i>PDF</a>
+* {:.pub} Coyle-Asbil, H. J., Osojnicki, K., Robertson, A., Baker, R., Grigore, M., Burr, J., Buck, C.,  **Wright, M. N.** & Vallis, L. A. (2026). Predicting Energy Expenditure in Preschool Children Using Accelerometer and Gyroscope Data. ***Pediatric Exercise Science***. <https://doi.org/10.1123/pes.2025-0014>.
 * {:.pub} Langbein, S. H., Koenen, N. & **Wright, M. N.** (2025). Gradient-based explanations for deep learning survival models.
  ***Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)***. <https://proceedings.mlr.press/v267/langbein25a.html>. <a href="https://raw.githubusercontent.com/mlresearch/v267/main/assets/langbein25a/langbein25a.pdf"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Liu, J., Steensgaard, T., **Wright, M. N.**, Pfister, N., & Hiabu, M. (2025). Fast estimation of partial dependence functions using trees.
