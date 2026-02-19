@@ -6,6 +6,7 @@ permalink: /publications/
 Most papers are freely available (<i class="fa fa-file-pdf-o"></i>PDF links). Just <a href="mailto:web@wrig.de">ask me</a> for the others. 
 
 ## Preprints
+* {:.pub} Langbein, S. H., Baniecki, H., Fumagalli, F., Koenen, N., **Wright, M. N.** & Herbinger, J. (2026). Functional decomposition and Shapley interactions for interpreting survival models. ***arXiv***. <https://arxiv.org/abs/2602.16505>. <a href="https://arxiv.org/pdf/2602.16505"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Herbinger, J., Laberge, G., Muschalik, M., Pequignot, Y., **Wright, M. N.** & Fumagalli, F. (2026). GRANITE: A generalized regional framework for identifying agreement in feature-based explanations. ***arXiv*** (accepted at AISTATS 2026). <https://arxiv.org/abs/2601.22771>. <a href="https://arxiv.org/pdf/2601.22771"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Kapar, J., Günther, K., Vallis, L. A., Berger, K., Binder, N., Brenner, H., ... & **Wright, M. N.** (2025). Can synthetic data reproduce real-world findings in epidemiology? A replication study using tree-based generative AI. ***arXiv***. <https://arxiv.org/abs/2508.14936>. <a href="https://arxiv.org/pdf/2508.14936"><i class="fa fa-file-pdf-o"></i>PDF</a>
 * {:.pub} Vu, B. D., Kapar, J., **Wright, M. N.** & Watson, D. S. (2025). Autoencoding random forests. ***arXiv*** (accepted at NeurIPS 2025). <https://arxiv.org/abs/2505.21441>. <a href="https://arxiv.org/pdf/2505.21441"><i class="fa fa-file-pdf-o"></i>PDF</a>
